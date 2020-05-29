@@ -10,6 +10,7 @@
   - [WiX](https://ja.wix.com/)
   - [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)にURLを報告
 - GitHub Educationへの応募
+  - [GitHubがこの4月からパワーアップ](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
   - 利用目的が学生自身がプロジェクトを作成することなので、クラスではなく、各々に取得してもらう
   - 参考： [学生開発者パックへの応募](https://help.github.com/ja/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack)
   - 参考： [kirohi. GitHub Student Developer Packに申請する方法](https://kirohi.com/apply_github_education)
