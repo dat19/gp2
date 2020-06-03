@@ -1,4 +1,4 @@
-# ゲームプログラミング2 デジタルアーツ東京2019年度生(木曜日3,4)
+# ゲームプログラミング2 2019年度生(木曜日3,4)
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tpWDguYAyq68lTyQ?e=jyA0e5)
 - [SOLID原則](https://docs.google.com/document/d/1TVdyioxBuSwz89Vh92ziADulEB47P5IMolytxopdBrM/)
 
