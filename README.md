@@ -22,6 +22,7 @@
 - [Google Meetingの利用](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
   - Google Meetページ
 - 設計について
+- 時間が余ったら、卒業制作の希望の聞き取り
 
 ## 参考
 - Herokuのアカウント作成
