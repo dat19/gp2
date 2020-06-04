@@ -11,7 +11,6 @@
   - [はてなブログ](https://hatenablog.com/)
   - [note](https://note.com/)
   - [WiX](https://ja.wix.com/)
-  - [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)にURLを報告
 - GitHub Educationへの応募
   - [GitHubがこの4月からパワーアップ](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
   - 利用目的が学生自身がプロジェクトを作成することなので、クラスではなく、各々に取得してもらう
@@ -27,6 +26,15 @@
   - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)
   - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)
   - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
+
+## 来週までにやること
+- ブログ-研究テーマを考えて、最低限、タイトルを作る
+  - 限定公開でよい
+  - 関連記事を検索して、URLを貼り付ける
+  - Google MeetにブログのURLを貼ってない人は、 [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/) にURLを報告
+- https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/ の確認問題をやる
+- 時間があれば、Google Educationプログラムを申請
+  
 
 ## 参考
 - Herokuのアカウント作成
