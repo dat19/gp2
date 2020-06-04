@@ -24,6 +24,9 @@
   - Google Meetページ
 - 設計について
 - 時間が余ったら、卒業制作の希望の聞き取り
+  - [マミーさん. チーム「密会取り締まり委員会」の発表](https://youtu.be/-qWwYVWgczA?t=6093)
+  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)
+  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
 
 ## 参考
 - Herokuのアカウント作成
