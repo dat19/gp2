@@ -5,6 +5,7 @@
 # 1回目：ガイダンス / ブログの開設と確認 / 最初の投稿
 - [就職活動の準備](https://docs.google.com/document/d/1ZluBZXCagWVwOSjoujLNT7iobYZoAjUH8eWHcZzFsg4/)
 - [SOLID原則](https://docs.google.com/document/d/1TVdyioxBuSwz89Vh92ziADulEB47P5IMolytxopdBrM/)
+- [質問会議室](https://meet.google.com/udg-ngkq-rbc)
 - ブログの開設と確認
   - [Qiita](https://qiita.com/)
   - [はてなブログ](https://hatenablog.com/)
