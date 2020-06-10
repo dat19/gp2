@@ -20,7 +20,11 @@
   - Google Meetページ
 - [単一責任の原則](https://docs.google.com/document/d/1NhWvY9EkbmUHmRoxp88VGcuWKzzTOa2kpFJiHeWJtiU/)
 - 卒業制作の準備
-
+  - Unityプロジェクトの作成
+  - グループCは、Trelloでチームを作成して、卒業制作用のボードを作成する
+  - GitHubに、Unityプロジェクトをパブリッシュ
+  - 解像度、ビルド設定
+  - 作業の洗い出し
 
 # 1回目：ガイダンス / ブログの開設と確認 / 最初の投稿
 - [就職活動の準備](https://docs.google.com/document/d/1ZluBZXCagWVwOSjoujLNT7iobYZoAjUH8eWHcZzFsg4/)
