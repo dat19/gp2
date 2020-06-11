@@ -4,11 +4,7 @@
 - [paiza開発日誌. 初心者がC#の基本からアプリ・ゲーム開発まで学ぶための記事まとめ](https://paiza.hatenablog.com/entry/2020/06/09/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8CC%23%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E3%82%A2%E3%83%97%E3%83%AA%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%BE%E3%81%A7%E5%AD%A6%E3%81%B6)
 
 # 2回目
-## 今日までの課題
-- ブログ-研究テーマを考えて、最低限、タイトルを作る
-  - 限定公開でよい
-  - 関連記事を検索して、URLを貼り付ける
-- https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/ の確認問題のURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/) に報告
+## 予定
 - Google Educationプログラムを申請(Unityのクラウドビルドが使いたいので)
   - 利用目的が学生自身がプロジェクトを作成することなので、クラスではなく、各々に取得してもらう
     - https://education.github.com/pack
@@ -25,6 +21,13 @@
   - GitHubに、Unityプロジェクトをパブリッシュ
   - 解像度、ビルド設定
   - 作業の洗い出し
+  - ブログの作成
+
+## 今日までの課題
+- ブログ-研究テーマを考えて、最低限、タイトルを作る
+  - 限定公開でよい
+  - 関連記事を検索して、URLを貼り付ける
+- https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/ の確認問題のURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/) に報告
 
 # 1回目：ガイダンス / ブログの開設と確認 / 最初の投稿
 - [就職活動の準備](https://docs.google.com/document/d/1ZluBZXCagWVwOSjoujLNT7iobYZoAjUH8eWHcZzFsg4/)
