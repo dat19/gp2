@@ -14,8 +14,6 @@
   - 参考： [kirohi. GitHub Student Developer Packに申請する方法](https://kirohi.com/apply_github_education)
   - 理由： I want to use a private repository for development with a team of six or more people.
   - 学校名： College of Digital Arts Tokyo
-- [Google Meetingの利用](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
-  - Google Meetページ
 - [単一責任の原則](https://docs.google.com/document/d/1NhWvY9EkbmUHmRoxp88VGcuWKzzTOa2kpFJiHeWJtiU/)
 - 卒業制作の準備
   - Unityプロジェクトの作成
