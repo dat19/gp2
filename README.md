@@ -16,8 +16,10 @@
     - https://education.github.com/pack
   - 参考： [学生開発者パックへの応募](https://help.github.com/ja/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack)
   - 参考： [kirohi. GitHub Student Developer Packに申請する方法](https://kirohi.com/apply_github_education)
-  - 理由： I want to learn GitHub.
   - 学校名： College of Digital Arts Tokyo
+  - Upload image をクリック
+  - スマホなどで撮影した学生証をGmailなどでPCに送信して、Drop file here or click to upload に写真のファイルをドラッグ＆ドロップ
+  - 理由： I want to learn GitHub.
 - [単一責任の原則](https://docs.google.com/document/d/1NhWvY9EkbmUHmRoxp88VGcuWKzzTOa2kpFJiHeWJtiU/)
 - 卒業制作の準備
   - Unityプロジェクトの作成
