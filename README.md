@@ -26,8 +26,8 @@
 ## 今日までの課題
 - ブログ-研究テーマを考えて、最低限、タイトルを作る
   - 限定公開でよい
-  - 関連記事を検索して、URLを貼り付ける
-- https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/ の確認問題のURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/) に報告
+  - 関連記事を検索してURLを貼り付ける
+- https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/ の確認問題のURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/) の*演習ドキュメントのURL列*に張り付け
 
 # 1回目：ガイダンス / ブログの開設と確認 / 最初の投稿
 - [就職活動の準備](https://docs.google.com/document/d/1ZluBZXCagWVwOSjoujLNT7iobYZoAjUH8eWHcZzFsg4/)
