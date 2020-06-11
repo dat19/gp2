@@ -7,7 +7,7 @@
 - [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
 ## 予定
-- Google Educationプログラムを申請(Unityのクラウドビルドが使いたいので)
+- GitHub Educationプログラムを申請(Unityのクラウドビルドが使いたいので)
   - 利用目的が学生自身がプロジェクトを作成することなので、クラスではなく、各々に取得してもらう
     - https://education.github.com/pack
   - 参考： [学生開発者パックへの応募](https://help.github.com/ja/github/teaching-and-learning-with-github-education/applying-for-a-student-developer-pack)
