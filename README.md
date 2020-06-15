@@ -9,6 +9,7 @@
 
 ## 予定
 - 課題の解答
+  - [長期サービスの作品と円滑に開発するための案](https://docs.google.com/document/d/17PEOWseIHh-R4R9Jobu4GFYVB1fFfeXkmU6_SWvxlX4/)
 - テーマブログについて
   - 出揃ったのを確認。一先ず現状で進めていく
   - 調べたり、分かったことは、すぐにブログに書き足していく(忘れるので)
