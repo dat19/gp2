@@ -2,15 +2,26 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tpWDguYAyq68lTyQ?e=jyA0e5)
 - [SOLID原則](https://docs.google.com/document/d/1TVdyioxBuSwz89Vh92ziADulEB47P5IMolytxopdBrM/)
 - [paiza開発日誌. 初心者がC#の基本からアプリ・ゲーム開発まで学ぶための記事まとめ](https://paiza.hatenablog.com/entry/2020/06/09/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8CC%23%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E3%82%A2%E3%83%97%E3%83%AA%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%BE%E3%81%A7%E5%AD%A6%E3%81%B6)
+- [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 
-# 2回目
+# 3回目
 - [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
+## 予定
+- テーマブログについて
+  - 出揃ったのを確認。一先ず現状で進めていく
+  - 調べたり、分かったことは、すぐにブログに書き足していく(忘れるので)
+- SOLID原則
+  - オープン・クローズドの原則 / リスコフの置換原則
+- 卒業制作を進める
+  - プロジェクトの共同作業の手順を確認 > [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
+
+
+# 2回目
 ## 課題
 - 単一責任の原則の演習・・・6/14(日) 23:59まで
 
-
-## 予定
+## 内容
 - GitHub Educationプログラムを申請(Unityのクラウドビルドが使いたいので)
   - 利用目的が学生自身がプロジェクトを作成することなので、クラスではなく、各々に取得してもらう
     - https://education.github.com/pack
