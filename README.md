@@ -10,6 +10,7 @@
 ## ニュース
 - [Maps SDK for Unity](https://developers.google.com/maps/documentation/gaming/overview_musk)
   - [Google Maps Platformの料金](https://cloud.google.com/maps-platform/pricing)
+- [GCCONF '20：次世代ゲームに求められる新技術はこれだ！monoAI technology株式会社](https://youtu.be/-OFaLsoPEIg)
 
 ## 予定
 - 課題の解答
