@@ -7,6 +7,10 @@
 # 3回目
 - [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
+## ニュース
+- [Maps SDK for Unity](https://developers.google.com/maps/documentation/gaming/overview_musk)
+  - [Google Maps Platformの料金](https://cloud.google.com/maps-platform/pricing)
+
 ## 予定
 - 課題の解答
   - [長期サービスの作品と円滑に開発するための案](https://docs.google.com/document/d/17PEOWseIHh-R4R9Jobu4GFYVB1fFfeXkmU6_SWvxlX4/)
