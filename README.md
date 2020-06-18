@@ -12,7 +12,7 @@
 - [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
 ## 日曜日までの課題
-- オープンクローズドの原則の演習
+- [オープンクローズドの原則](https://docs.google.com/document/d/1mOXcLZq31II1_8PwoAzSp4VkFMrtYipeXrmumFaWF-s/)の演習
   - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
   - リンクを知っている全員が閲覧できるようにしてください
 
