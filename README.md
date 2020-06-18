@@ -7,6 +7,11 @@
 # 3回目
 - [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
+## 日曜日までの課題
+- オープンクローズドの原則の演習
+  - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
+  - リンクを知っている全員が閲覧できるようにしてください
+
 ## ニュース
 - [Maps SDK for Unity](https://developers.google.com/maps/documentation/gaming/overview_musk)
   - [Google Maps Platformの料金](https://cloud.google.com/maps-platform/pricing)
