@@ -5,11 +5,17 @@
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 
 # 4回目
+- [質問Meet](https://meet.google.com/yav-uzhd-wjq)
+
+## 前回のOCPの復習、解答
+- [演習3解答例](https://docs.google.com/presentation/d/1rr90TQ2Qgw30NOlbIC1UPNuG2kJjj6LMKdTk5UNX5zI/)
+
+
 ## 予定
 - リスコフの置換原則
 
+
 # 3回目
-- [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
 ## 日曜日までの課題
 - [オープンクローズドの原則](https://docs.google.com/document/d/1mOXcLZq31II1_8PwoAzSp4VkFMrtYipeXrmumFaWF-s/)の演習
