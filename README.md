@@ -12,7 +12,8 @@
 
 
 ## 予定
-- リスコフの置換原則
+- [リスコフの置換原則](https://docs.google.com/document/d/10FN9wUup3e7mO9zipqWuxM0HZHDAEnRzhO6w1Ql8WCw/)
+- [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)
 - 研究内容の進捗の確認と進め方の相談
 - 卒業制作作業
 
