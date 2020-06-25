@@ -4,6 +4,13 @@
 - [paiza開発日誌. 初心者がC#の基本からアプリ・ゲーム開発まで学ぶための記事まとめ](https://paiza.hatenablog.com/entry/2020/06/09/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8CC%23%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E3%82%A2%E3%83%97%E3%83%AA%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%BE%E3%81%A7%E5%AD%A6%E3%81%B6)
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 
+# 5回目
+## 話題
+- [Monaca Education. Webフロントエンド開発の学習サービス](https://edu.monaca.io/)
+
+## 来週
+- [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)
+
 # 4回目
 - [質問Meet](https://meet.google.com/yav-uzhd-wjq)
 
@@ -11,15 +18,13 @@
 - [演習3解答例](https://docs.google.com/presentation/d/1rr90TQ2Qgw30NOlbIC1UPNuG2kJjj6LMKdTk5UNX5zI/)
 
 
-## 予定
+## 内容
 - [リスコフの置換原則](https://docs.google.com/document/d/10FN9wUup3e7mO9zipqWuxM0HZHDAEnRzhO6w1Ql8WCw/)
   - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
   - リンクを知っている全員が閲覧できるようにしてください
 - 研究内容の進捗の確認と進め方の相談
 - 卒業制作作業
 
-## 来週
-- [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)
 
 
 # 3回目
