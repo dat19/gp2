@@ -13,9 +13,13 @@
 
 ## 予定
 - [リスコフの置換原則](https://docs.google.com/document/d/10FN9wUup3e7mO9zipqWuxM0HZHDAEnRzhO6w1Ql8WCw/)
-- [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)
+  - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
+  - リンクを知っている全員が閲覧できるようにしてください
 - 研究内容の進捗の確認と進め方の相談
 - 卒業制作作業
+
+## 来週
+- [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)
 
 
 # 3回目
