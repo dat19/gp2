@@ -10,6 +10,9 @@
 - [paiza開発日誌. 50以上の言語に対応！何でも開発可能な無料のクラウドIDE「Repl.it」を使ってみた！](https://paiza.hatenablog.com/entry/2020/06/17/50%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%AB%E5%AF%BE%E5%BF%9C%EF%BC%81%E4%BD%95%E3%81%A7%E3%82%82%E9%96%8B%E7%99%BA%E5%8F%AF%E8%83%BD%E3%81%AA%E7%84%A1%E6%96%99%E3%81%AE%E3%82%AF%E3%83%A9)
 
 ## 予定
+- [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)の復習
+  - ShieldDamageableを実装してみる
+  - 演習にもう一度取り組む
 - [依存関係逆転の原則](https://docs.google.com/document/d/1-wRF_0zVapL7yUDfpsdwAjlJq0rpkEiNWnN-AHVyEkM/)
   - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
   - リンクを知っている全員が閲覧できるようにしてください
