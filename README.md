@@ -12,6 +12,7 @@
 ## 予定
 - [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)の復習
   - ShieldDamageableを実装してみる
+  - シールドオブジェクトの作成を実演
   - 演習にもう一度取り組む
 - [依存関係逆転の原則](https://docs.google.com/document/d/1-wRF_0zVapL7yUDfpsdwAjlJq0rpkEiNWnN-AHVyEkM/)
   - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
