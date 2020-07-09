@@ -9,7 +9,7 @@
 - [Monaca Education. Webフロントエンド開発の学習サービス](https://edu.monaca.io/)
 - [paiza開発日誌. 50以上の言語に対応！何でも開発可能な無料のクラウドIDE「Repl.it」を使ってみた！](https://paiza.hatenablog.com/entry/2020/06/17/50%E4%BB%A5%E4%B8%8A%E3%81%AE%E8%A8%80%E8%AA%9E%E3%81%AB%E5%AF%BE%E5%BF%9C%EF%BC%81%E4%BD%95%E3%81%A7%E3%82%82%E9%96%8B%E7%99%BA%E5%8F%AF%E8%83%BD%E3%81%AA%E7%84%A1%E6%96%99%E3%81%AE%E3%82%AF%E3%83%A9)
 
-## 予定
+## 内容
 - [インターフェース分離の原則](https://docs.google.com/document/d/1rr_F_RpGMpeO7t5jodhnVVXSY4CdHLbWZlrWGFfOJPI/)の復習
   - ShieldDamageableを実装してみる
   - シールドオブジェクトの作成を実演
@@ -19,6 +19,22 @@
   - リンクを知っている全員が閲覧できるようにしてください
 - 研究内容の進捗の確認と進め方の相談
 - 卒業制作や研究についての質疑応答と作業
+
+## プレイヤー方にダメージを与える方法の検討
+- ◎プレイヤーサイドのダメージを呼び出すスクリプト
+  - 今回は敵などの属性が特にないのでこれがシンプルそう
+- 〇プレイヤーサイドにダメージを与えるかを返すスクリプト
+  - 敵や弾に様々な属性があるなら、ここに含めることが考えられる
+- △タグを使う
+  - 実装は簡単だが、敵と敵の弾の2つのタグ判定が必要なのでちょっと微妙
+
+※相手がだれかをタグなどで片っ端からifで判別するのは避けたい！
+
+・敵や、敵の弾にアタッチするスクリプトAttackerを定義して、そこにパワーとダメージ処理の呼び出しを実装
+・Attackerから呼び出すIPlayerDamageableインターフェースを定義
+・シールドを作る。ShieldDamageableクラスにIPlayerDamageableを実装し、Damage処理と、シールドの強度、爆発時のExplosionプレハブを受け取る
+
+
 
 ## UnityのUI(uGUI)
 - 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
