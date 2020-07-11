@@ -12,6 +12,22 @@ GitHub Educationの進展を確認。
 - 研究内容の進捗の確認と進め方の相談
 - 卒業制作や研究についての質疑応答と作業
 
+## UnityのUI(uGUI)
+- 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
+- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+
+## PhotoshopでUIを作る
+kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)を使って、PhotoshopでUnityのUIを作成する。
+
+- [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
+
+## Photoshopで作った画像をレイヤー分割
+- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
+  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
+
+## 参考
+- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
+
 
 # 6回目
 ## 話題
@@ -41,25 +57,6 @@ GitHub Educationの進展を確認。
 ・敵や、敵の弾にアタッチするスクリプトAttackerを定義して、そこにパワーとダメージ処理の呼び出しを実装
 ・Attackerから呼び出すIPlayerDamageableインターフェースを定義
 ・シールドを作る。ShieldDamageableクラスにIPlayerDamageableを実装し、Damage処理と、シールドの強度、爆発時のExplosionプレハブを受け取る
-
-
-
-## UnityのUI(uGUI)
-- 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
-- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
-
-## PhotoshopでUIを作る
-kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)を使って、PhotoshopでUnityのUIを作成する。
-
-- [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
-
-## Photoshopで作った画像をレイヤー分割
-- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
-  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
-
-## 参考
-- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
-
 
 
 
