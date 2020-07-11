@@ -4,6 +4,15 @@
 - [paiza開発日誌. 初心者がC#の基本からアプリ・ゲーム開発まで学ぶための記事まとめ](https://paiza.hatenablog.com/entry/2020/06/09/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8CC%23%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E3%82%A2%E3%83%97%E3%83%AA%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%BE%E3%81%A7%E5%AD%A6%E3%81%B6)
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 
+# 7回目
+GitHub Educationの進展を確認。
+
+## 予定
+- [依存関係逆転の原則](https://docs.google.com/document/d/1-wRF_0zVapL7yUDfpsdwAjlJq0rpkEiNWnN-AHVyEkM/)
+- 研究内容の進捗の確認と進め方の相談
+- 卒業制作や研究についての質疑応答と作業
+
+
 # 6回目
 ## 話題
 - [Monaca Education. Webフロントエンド開発の学習サービス](https://edu.monaca.io/)
@@ -14,7 +23,6 @@
   - ShieldDamageableを実装してみる
   - シールドオブジェクトの作成を実演
   - 演習にもう一度取り組む
-- [依存関係逆転の原則](https://docs.google.com/document/d/1-wRF_0zVapL7yUDfpsdwAjlJq0rpkEiNWnN-AHVyEkM/)
   - できたら、ドキュメントの共有URLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に張り付ける
   - リンクを知っている全員が閲覧できるようにしてください
 - 研究内容の進捗の確認と進め方の相談
