@@ -6,8 +6,15 @@
 - [paiza開発日誌. プログラミング初心者向け「PHPの学習に役立つ情報」まとめ](https://paiza.hatenablog.com/entry/2020/07/11/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%8CPHP%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1)
 - [手軽にできるUnityC#高速化テクニック7選](https://youtu.be/QQhmOyiBdkI)
 
+# 8回目
+## 話題
+- [Unity入門チュートリアル 「玉転がし」(Roll-a-Ball) ビジュアルスクリプティング版](https://learn.unity.com/project/unityru-men-chiyutoriaru-yu-zhuan-gashi-roll-a-ball-biziyuarusukuriputeinguban?utm_campaign=other_japan_newsletter_2020-7-JP-New-bolt-cm&utm_content=2020-7-JP-New-bolt&utm_medium=email&utm_source=Eloqua)
+
+## 予定
+- GitHub Educationの進展を確認。
+
+
 # 7回目
-GitHub Educationの進展を確認。
 
 ## 予定
 - [依存関係逆転の原則](https://docs.google.com/document/d/1-wRF_0zVapL7yUDfpsdwAjlJq0rpkEiNWnN-AHVyEkM/)
