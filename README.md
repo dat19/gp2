@@ -8,10 +8,30 @@
 
 # 8回目
 ## 話題
+- [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
 - [Unity入門チュートリアル 「玉転がし」(Roll-a-Ball) ビジュアルスクリプティング版](https://learn.unity.com/project/unityru-men-chiyutoriaru-yu-zhuan-gashi-roll-a-ball-biziyuarusukuriputeinguban?utm_campaign=other_japan_newsletter_2020-7-JP-New-bolt-cm&utm_content=2020-7-JP-New-bolt&utm_medium=email&utm_source=Eloqua)
 
 ## 予定
-- GitHub Educationの進展を確認。
+- GitHub Educationの進展を確認
+- [paizaのレベルアップ問題集](https://paiza.jp/works/mondai)
+  - 値取得・出力のサンプルコード を確認する
+  - コードを試すのは、提出欄より https://paiza.io/ja の方が便利
+  - PHPの入出力を試す
+    - 入力欄に、入力の値をコピペ
+    - PHPのサンプルコードをコピペ
+    - 実行して結果を見る
+    - サンプルコードの内容を確認する
+    - 分からない単語は、`php 不明な命令`で検索する。例えば`php trim`や`php fgets`
+  - おおよその内容が分かったら、問題を解いてみる
+    - 入力例をpaiza.ioの入力欄にコピペ
+    - コードを書く
+    - 実行して結果を確認
+    - 成功したら、入力例2でも確認
+    - どちらも成功したら、コードをコピーして、paizaの問題集の解答欄にコピペ
+    - 念のため、動作確認をしておく
+    - 成功したら提出
+  - 他の見本問題も解いてみる
+  - ある程度把握できたらスキルチェックへ
 
 
 # 7回目
