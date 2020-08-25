@@ -6,12 +6,18 @@
 - [paiza開発日誌. プログラミング初心者向け「PHPの学習に役立つ情報」まとめ](https://paiza.hatenablog.com/entry/2020/07/11/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%8CPHP%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1)
 - [手軽にできるUnityC#高速化テクニック7選](https://youtu.be/QQhmOyiBdkI)
 
+# 9回目
+## 予定
+- 1週間ゲームジャムに参加した人、開発中の人は報告
+- [ラズパイによるLinux操作練習](https://docs.google.com/document/d/1oEB2JvHmJG8E4sVknDxc7MDQeZnLsrLvHnLOKAV031c/)
+- 各自、作業
+
 # 8回目
 ## 話題
 - [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
 - [Unity入門チュートリアル 「玉転がし」(Roll-a-Ball) ビジュアルスクリプティング版](https://learn.unity.com/project/unityru-men-chiyutoriaru-yu-zhuan-gashi-roll-a-ball-biziyuarusukuriputeinguban?utm_campaign=other_japan_newsletter_2020-7-JP-New-bolt-cm&utm_content=2020-7-JP-New-bolt&utm_medium=email&utm_source=Eloqua)
 
-## 予定
+## 内容
 - GitHub Educationの進展を確認
 - [paizaのレベルアップ問題集](https://paiza.jp/works/mondai)
   - 値取得・出力のサンプルコード を確認する
