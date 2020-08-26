@@ -9,6 +9,9 @@
 # 9回目
 ## 予定
 - 1週間ゲームジャムに参加した人、開発中の人は報告
+- 体験入学で使う「おみくじ」アプリをUnityで作り直す
+  - オリジナルのC#版 `X:\2020年\ゲーム学科\Teacher\Tanaka\おみくじ`
+  - 仕様書
 - [ラズパイによるLinux操作練習](https://docs.google.com/document/d/1oEB2JvHmJG8E4sVknDxc7MDQeZnLsrLvHnLOKAV031c/)
 - 各自、作業
 
