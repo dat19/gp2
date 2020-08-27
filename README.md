@@ -8,7 +8,7 @@
 
 # 9回目
 ## とりまとめ参考
-- [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/dl/win/21952)
+- [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
 ## 予定
 - 1週間ゲームジャムに参加した人、開発中の人は報告
