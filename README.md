@@ -7,6 +7,9 @@
 - [手軽にできるUnityC#高速化テクニック7選](https://youtu.be/QQhmOyiBdkI)
 
 # 9回目
+## とりまとめ参考
+- [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/dl/win/21952)
+
 ## 予定
 - 1週間ゲームジャムに参加した人、開発中の人は報告
   - 1年生作品 [スイカ割り](https://unityroom.com/games/suikawarigame)
