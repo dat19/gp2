@@ -11,7 +11,7 @@
 - 1週間ゲームジャムに参加した人、開発中の人は報告
 - 体験入学で使う「おみくじ」アプリをUnityで作り直す
   - オリジナルのC#版 `X:\2020年\ゲーム学科\Teacher\Tanaka\おみくじ`
-  - [仕様概要書](https://github.com/dat19/gp2/wiki/%E3%81%8A%E3%81%BF%E3%81%8F%E3%81%98%E3%82%A2%E3%83%97%E3%83%AA%E4%BB%95%E6%A7%98%E6%9B%B8)
+  - [仕様概要書](https://github.com/dat19/gp2/wiki/%E3%81%8A%E3%81%BF%E3%81%8F%E3%81%98%E3%82%A2%E3%83%97%E3%83%AA%E4%BB%95%E6%A7%98%E6%A6%82%E8%A6%81%E6%9B%B8)
 - [ラズパイによるLinux操作練習](https://docs.google.com/document/d/1oEB2JvHmJG8E4sVknDxc7MDQeZnLsrLvHnLOKAV031c/)
 - 各自、作業
 
