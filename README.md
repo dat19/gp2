@@ -26,6 +26,9 @@
 
 
 # 11回目
+## 話題
+- [@BelColo. ステートマシン実装の決定版ImtStateMachineについて語り尽くす](https://qiita.com/BelColo/items/a94c9ccc2d5174dc29a3)
+
 ## 内容
 - 各自、作業と相談
   - 武器や弾数の管理に特化した作品についての検討
