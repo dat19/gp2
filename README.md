@@ -5,14 +5,12 @@
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
 - [paiza開発日誌. プログラミング初心者向け「PHPの学習に役立つ情報」まとめ](https://paiza.hatenablog.com/entry/2020/07/11/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%80%8CPHP%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E6%83%85%E5%A0%B1)
 - [手軽にできるUnityC#高速化テクニック7選](https://youtu.be/QQhmOyiBdkI)
-- データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
-- [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
-- [提出データの作成]()
+- [提出データの作成](https://github.com/dat19/gp2/blob/master/%E6%8F%90%E5%87%BA%E3%83%87%E3%83%BC%E3%82%BF.md)
+  - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
+  - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
 # 後期2回目
-- 卒業制作の確認
-- 提出パッケージ作り
-
+- 卒業制作の作業、質疑応答
 
 # 後期1回目
 - 卒業制作の確認
