@@ -7,6 +7,12 @@
 - [手軽にできるUnityC#高速化テクニック7選](https://youtu.be/QQhmOyiBdkI)
 - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
+- [提出データの作成]()
+
+# 後期2回目
+- 卒業制作の確認
+- 提出パッケージ作り
+
 
 # 後期1回目
 - 卒業制作の確認
@@ -34,7 +40,7 @@
 - RTAとしての締め切りは15:30まで
   - 未完成の場合、引き続き時間を計測しながら開発して、来週までに上記の要領で提出
 
-## 予定
+## 内容
 - 参考: https://hexadrive.jp/hexablog/others/18030/
 - 15:30以降、提出データの作成方法のレクチャー
   - 提出予定のフォルダーを、作業用フォルダーなどにコピーする
