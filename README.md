@@ -10,6 +10,8 @@
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
 # 後期6回目
+- [paiza開発日誌. プログラミングがゲーム感覚で学べる！スキルチェック問題とは](https://paiza.hatenablog.com/entry/2020/11/16/133000)
+  - レーティングアップキャンペーン中
 - [卒業制作](https://github.com/dat19/sotsusei)
 
 
