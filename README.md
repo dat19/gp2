@@ -9,7 +9,7 @@
   - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
-# 後期8回目
+# 後期9回目
 ## 話題
 - [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
   - 12/17エントリー締め切り
@@ -18,7 +18,7 @@
 - [天神いな. 現役ゲームプログラマが解説。ゲーム開発の知識・技術を教えます！](https://www.youtube.com/c/ina-amagami/videos)
 
 
-# 後期6, 7回目
+# 後期6-8回目
 - [paiza開発日誌. プログラミングがゲーム感覚で学べる！スキルチェック問題とは](https://paiza.hatenablog.com/entry/2020/11/16/133000)
   - レーティングアップキャンペーン中
 - [卒業制作](https://github.com/dat19/sotsusei)
