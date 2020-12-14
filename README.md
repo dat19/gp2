@@ -9,6 +9,11 @@
   - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
+# 後期10回目
+## 話題
+- [Gotanda.unity #16](https://meetup.unity3d.jp/jp/events/1268)
+
+
 # 後期9回目
 ## 話題
 - [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
