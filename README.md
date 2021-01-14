@@ -10,6 +10,10 @@
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
 # 後期11-13回目
+## 参考
+- [ごたゆに](https://www.youtube.com/watch?v=FTHfVpBfpo0&feature=youtu.be)
+
+## 予定
 - [卒業制作](https://github.com/dat19/sotsusei)
   - 残り作業の確認
 
