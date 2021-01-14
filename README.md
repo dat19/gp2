@@ -9,12 +9,9 @@
   - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
-# 後期12回目
+# 後期11-13回目
 - [卒業制作](https://github.com/dat19/sotsusei)
   - 残り作業の確認
-
-# 後期11回目
-- [卒業制作](https://github.com/dat19/sotsusei)
 
 ## 提出
 - タイトルから起動して、各シーンを確認できる実行ファイルをビルドして、以下の場所に提出
