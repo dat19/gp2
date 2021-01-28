@@ -18,6 +18,7 @@
 ## 予定
 - [卒業制作](https://github.com/dat19/sotsusei)
   - 残り作業の確認
+  - [進捗エクセルの共有URL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
 
 ## 提出
 - タイトルから起動して、各シーンを確認できる実行ファイルをビルドして、以下の場所に提出
