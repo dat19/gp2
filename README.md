@@ -18,7 +18,13 @@
 ## 予定
 - [卒業制作](https://github.com/dat19/sotsusei)
   - 残り作業の確認
-  - [進捗エクセルの共有URL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+  - 進捗エクセルの共有
+    - https://drive.google.com を開いて、Googleアカウントでログイン
+    - 進捗のエクセルファイルを任意のGoogle Driveフォルダーにドラッグ&ドロップしてアップロード
+    - アップロードしたエクセルファイルを開く
+    - 右上の共有ボタンをクリックして、「このリンクを知っているインターネット上の全員が閲覧できます。」にして、リンクをコピー
+    - [共有URL報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link) を開いて、氏名を入力したら、共有URL欄を選択して、Ctrl+VキーでURLを貼り付けて送信
+  
 
 ## 提出
 - タイトルから起動して、各シーンを確認できる実行ファイルをビルドして、以下の場所に提出
