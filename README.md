@@ -9,8 +9,9 @@
   - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
-# 後期11-14回目
+# 後期11-15回目
 ## 参考
+- [ハイパーカジュアルゲームナイト Voodooプロトタイプ改修事例 - Unityステーション](https://www.youtube.com/watch?v=BMuFP4bpuHM)
 - [unity1week online共有会 #3 1/23 21:00から](https://meetup.unity3d.jp/jp/events/1270)
 - [ごたゆに](https://www.youtube.com/watch?v=FTHfVpBfpo0&feature=youtu.be)
 
