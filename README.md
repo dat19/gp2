@@ -9,7 +9,11 @@
   - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
 
-# 後期11-15回目
+# 後期11-16回目
+## 話題
+- [NoSeams. 心が折れずにゲーム開発を続ける方法](https://twitter.com/ozora_develop/status/1275949779457957888)
+  - ツイートのドキュメントだけではなく、返信や引用ツイートのコメントも必見
+
 ## 参考
 - [ハイパーカジュアルゲームナイト Voodooプロトタイプ改修事例 - Unityステーション](https://www.youtube.com/watch?v=BMuFP4bpuHM)
 - [unity1week online共有会 #3 1/23 21:00から](https://meetup.unity3d.jp/jp/events/1270)
@@ -18,12 +22,16 @@
 ## 予定
 - [卒業制作](https://github.com/dat19/sotsusei)
   - 残り作業の確認
-  - 進捗エクセルの共有
-    - https://drive.google.com を開いて、Googleアカウントでログイン
-    - 進捗のエクセルファイルを任意のGoogle Driveフォルダーにドラッグ&ドロップしてアップロード
-    - アップロードしたエクセルファイルを開く
-    - 右上の共有ボタンをクリックして、「このリンクを知っているインターネット上の全員が閲覧できます。」にして、リンクをコピー
-    - [共有URL報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link) を開いて、氏名を入力したら、共有URL欄を選択して、Ctrl+VキーでURLを貼り付けて送信
+
+# 後期15回
+
+## 予定
+- 進捗エクセルの共有
+  - https://drive.google.com を開いて、Googleアカウントでログイン
+  - 進捗のエクセルファイルを任意のGoogle Driveフォルダーにドラッグ&ドロップしてアップロード
+  - アップロードしたエクセルファイルを開く
+  - 右上の共有ボタンをクリックして、「このリンクを知っているインターネット上の全員が閲覧できます。」にして、リンクをコピー
+  - 共有URL報告フォームを開いて、氏名を入力したら、共有URL欄を選択して、Ctrl+VキーでURLを貼り付けて送信
   
 
 ## 提出
