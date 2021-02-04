@@ -8,6 +8,7 @@
 - [提出データの作成](https://github.com/dat19/gp2/blob/master/%E6%8F%90%E5%87%BA%E3%83%87%E3%83%BC%E3%82%BF.md)
   - [README.txt の参考](https://github.com/dat19/gp2/blob/master/README.txt)
   - データのとりまとめ方の参考 [DSPSE. レピルと魔法の帽子](https://www.freem.ne.jp/win/game/21952)
+- [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 # 後期11-16回目
 ## 話題
