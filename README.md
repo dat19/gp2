@@ -23,6 +23,13 @@
 - 実行ファイルは `X:\2020年\ゲーム学科\Student\卒業制作\最終データ`
 - プロジェクト一式を圧縮して `X:\2020年\ゲーム学科\Student\卒業制作\最終プロジェクトフォルダー`
 
+# 後期17回目
+## 予定
+金曜日の講義開始時点で提出されているデータでDVDの制作を始める。今日中に焼く対象までプロジェクトを仕上げて、ビルドしたものを提出フォルダーにコピーすること。
+
+- 提出先フォルダー
+  - `X:\2020年\ゲーム学科\Student\卒業制作\最終データ` フォルダー内の各プロジェクトのフォルダー
+- [卒業制作](https://github.com/dat19/sotsusei)
 
 
 # 後期11-16回目
@@ -35,7 +42,7 @@
 - [unity1week online共有会 #3 1/23 21:00から](https://meetup.unity3d.jp/jp/events/1270)
 - [ごたゆに](https://www.youtube.com/watch?v=FTHfVpBfpo0&feature=youtu.be)
 
-## 予定
+## 内容
 - [卒業制作](https://github.com/dat19/sotsusei)
   - 残り作業の確認
 
